@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cslearner07" alt="cslearner07" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Engineering**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/pradeep-sutar07**
 
